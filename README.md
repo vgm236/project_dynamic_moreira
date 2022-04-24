@@ -1,4 +1,4 @@
-# Moreira GARCH applications Project
+# GARCH Applications Project
 This notebook was prepared by:
 
 Vinicius Moreira (vgm236@nyu.edu)
