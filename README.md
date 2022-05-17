@@ -7,7 +7,7 @@ Graduate School of Arts and Science (GSAS) at New York University (NYU)
 
 May 2022
 
-This repository discusses the Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) and its applications. We first briefly explain some of its history, the math, the logic and the program behind this method. Then, we apply the GARCH model into two similar, but different models: the Value-At-Risk (Var) and the Expected Shortfall (ES).
+This repository discusses the Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) and its applications. We first briefly explain some of its history, the math, the logic and the program behind this method. Then, we apply the GARCH model into two similar, but different applications: the Value-At-Risk (Var) and the Expected Shortfall (ES).
 
 This is part of the QuantEcon class at NYU called Dynamic Models for Computational Social Science, taught by Drs. Thomas Sargent, Spencer Lyon and Chase Coleman.
 
