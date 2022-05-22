@@ -21,4 +21,12 @@ This is part of the QuantEcon class at NYU called Dynamic Models for Computation
 
 - Kaplanski, Guy and Kroll, Yoram, VAR Risk Measures Versus Traditional Risk Measures: An Analysis and Survey (December 1, 2001). Journal of Risk, Vol. 4, Issue 3, pp. 1-27, 2002, Available at SSRN: https://ssrn.com/abstract=271992 or http://dx.doi.org/10.2139/ssrn.271992
 
+- Holton, G.A. (2002) History of Value-at-Risk: 1922-1988. Contingency Analysis Working Paper.
+
+- Nelson, D. B., 1991. Conditional Heteroskedasticity in Asset Returns: A New Approach. Econometrica 59: 347-370. https://www.jstor.org/stable/2938260
+
+- NYU Stern Volatility-Lab. See more here: https://vlab.stern.nyu.edu/
+
+- Value at Risk (B): Portfolio Standard Deviation, (1999) Paul Glasserman, Columbia Business School. Available here: https://www0.gsb.columbia.edu/faculty/pglasserman/B6014/var-b.pdf.
+
 - Yang, Chelsea VaR in financial risk management: GARCH models in Python. Class from DataCamp. Available here: https://projector-video-pdf-converter.datacamp.com/22276/chapter4.pdf
